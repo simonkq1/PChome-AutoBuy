@@ -3,6 +3,7 @@ venv/
 .vscode
 # 開發用程式碼
 *_dev.py 
+config.json
 
 # Byte-compiled / optimized / DLL files
 __pycache__/
