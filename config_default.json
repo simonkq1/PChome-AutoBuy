@@ -1,0 +1,14 @@
+{
+    "URL": "",
+    "ACC": "",
+    "PWD": "",
+    "SSN": "",
+    "Birth": {
+        "Year": "",
+        "Month": "",
+        "Day": ""
+    },
+    "Credit": {
+        "CVV": ""
+    }
+}
